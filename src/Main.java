@@ -20,12 +20,3 @@ public class Main {
         snakeGame.requestFocus();
     }       
 }
-
-/*
-
-SOURCE:     https://www.youtube.com/watch?v=Y62MJny9LHg
-CREATOR:    Kenny Yip Coding
-
-*/
-
-
